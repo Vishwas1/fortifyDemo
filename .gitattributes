@@ -1,0 +1,4 @@
+*                 filter=fortify diff=fortify
+*.gitattributes               filter=noop diff=noop
+*.fortifyignore               filter=noop diff=noop
+*.fortify/*               filter=noop diff=noop
